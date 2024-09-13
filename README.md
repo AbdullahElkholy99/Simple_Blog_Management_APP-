@@ -1,10 +1,10 @@
 # Simple_Blog_Management_APP
 
 ## Some Features :
-### CRUD Operation 
-### AutoMapper
-### DTO
-### Services (DI)
-### Handling Exptions
-### Pagination
-### Searching With Pagination[Pagination is Optional]
+###   1- CRUD Operation 
+###   2- AutoMapper
+###   3- DTO
+###   4- Services (DI)
+###   5- Handling Exptions
+###   6- Pagination
+###   7- Searching With Pagination[Pagination is Optional]
