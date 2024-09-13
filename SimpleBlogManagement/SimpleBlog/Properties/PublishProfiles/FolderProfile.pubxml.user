@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>H:\DR Amr\Projects\PublishBlog</_PublishTargetUrl>
+    <History>True|2024-09-12T22:29:18.5965943Z||;True|2024-09-13T01:05:16.7798871+03:00||;True|2024-09-13T00:12:11.5528036+03:00||;True|2024-09-12T23:40:29.6852585+03:00||;True|2024-09-12T23:39:56.5145225+03:00||;True|2024-09-11T15:53:24.3430273+03:00||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="sqlConnection">
+      <Value>Server = . %3b Database = BlogManagement  %3b Integrated Security = SSPI %3b TrustServerCertificate = True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="SimpleBlog.Data.AppDbContext">
+      <Value>Server = . %3b Database = BlogManagement  %3b Integrated Security = SSPI %3b TrustServerCertificate = True</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

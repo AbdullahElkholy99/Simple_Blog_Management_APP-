@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0167CFFD-4EAF-4056-8592-D901D90D7E37}|SimpleBlog\\SimpleBlog.csproj|h:\\dr amr\\projects\\simpleblogmanagementapp\\simpleblog\\service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167CFFD-4EAF-4056-8592-D901D90D7E37}|SimpleBlog\\SimpleBlog.csproj|solutionrelative:simpleblog\\service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0167CFFD-4EAF-4056-8592-D901D90D7E37}|SimpleBlog\\SimpleBlog.csproj|h:\\dr amr\\projects\\simpleblogmanagementapp\\simpleblog\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167CFFD-4EAF-4056-8592-D901D90D7E37}|SimpleBlog\\SimpleBlog.csproj|solutionrelative:simpleblog\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0167CFFD-4EAF-4056-8592-D901D90D7E37}|SimpleBlog\\SimpleBlog.csproj|h:\\dr amr\\projects\\simpleblogmanagementapp\\simpleblog\\repository\\extensions\\repositoryblogextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167CFFD-4EAF-4056-8592-D901D90D7E37}|SimpleBlog\\SimpleBlog.csproj|solutionrelative:simpleblog\\repository\\extensions\\repositoryblogextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0167CFFD-4EAF-4056-8592-D901D90D7E37}|SimpleBlog\\SimpleBlog.csproj|h:\\dr amr\\projects\\simpleblogmanagementapp\\simpleblog\\service\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167CFFD-4EAF-4056-8592-D901D90D7E37}|SimpleBlog\\SimpleBlog.csproj|solutionrelative:simpleblog\\service\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0167CFFD-4EAF-4056-8592-D901D90D7E37}|SimpleBlog\\SimpleBlog.csproj|h:\\dr amr\\projects\\simpleblogmanagementapp\\simpleblog\\requestfeatures\\blogparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167CFFD-4EAF-4056-8592-D901D90D7E37}|SimpleBlog\\SimpleBlog.csproj|solutionrelative:simpleblog\\requestfeatures\\blogparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0167CFFD-4EAF-4056-8592-D901D90D7E37}|SimpleBlog\\SimpleBlog.csproj|h:\\dr amr\\projects\\simpleblogmanagementapp\\simpleblog\\requestfeatures\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0167CFFD-4EAF-4056-8592-D901D90D7E37}|SimpleBlog\\SimpleBlog.csproj|solutionrelative:simpleblog\\requestfeatures\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryBlogExtensions.cs",
+              "DocumentMoniker": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\SimpleBlog\\Repository\\Extensions\\RepositoryBlogExtensions.cs",
+              "RelativeDocumentMoniker": "SimpleBlog\\Repository\\Extensions\\RepositoryBlogExtensions.cs",
+              "ToolTip": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\SimpleBlog\\Repository\\Extensions\\RepositoryBlogExtensions.cs",
+              "RelativeToolTip": "SimpleBlog\\Repository\\Extensions\\RepositoryBlogExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:47:48.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\SimpleBlog\\Service\\BlogService.cs",
+              "RelativeDocumentMoniker": "SimpleBlog\\Service\\BlogService.cs",
+              "ToolTip": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\SimpleBlog\\Service\\BlogService.cs",
+              "RelativeToolTip": "SimpleBlog\\Service\\BlogService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:29:53.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\SimpleBlog\\Service\\IBlogService.cs",
+              "RelativeDocumentMoniker": "SimpleBlog\\Service\\IBlogService.cs",
+              "ToolTip": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\SimpleBlog\\Service\\IBlogService.cs",
+              "RelativeToolTip": "SimpleBlog\\Service\\IBlogService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:29:11.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogParameters.cs",
+              "DocumentMoniker": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\SimpleBlog\\RequestFeatures\\BlogParameters.cs",
+              "RelativeDocumentMoniker": "SimpleBlog\\RequestFeatures\\BlogParameters.cs",
+              "ToolTip": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\SimpleBlog\\RequestFeatures\\BlogParameters.cs",
+              "RelativeToolTip": "SimpleBlog\\RequestFeatures\\BlogParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:28:47.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestParameters.cs",
+              "DocumentMoniker": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\SimpleBlog\\RequestFeatures\\RequestParameters.cs",
+              "RelativeDocumentMoniker": "SimpleBlog\\RequestFeatures\\RequestParameters.cs",
+              "ToolTip": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\SimpleBlog\\RequestFeatures\\RequestParameters.cs",
+              "RelativeToolTip": "SimpleBlog\\RequestFeatures\\RequestParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:25:41.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\SimpleBlog\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "SimpleBlog\\Controllers\\BlogsController.cs",
+              "ToolTip": "H:\\DR Amr\\Projects\\SimpleBlogManagementApp\\SimpleBlog\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "SimpleBlog\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:27:28.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 86,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
